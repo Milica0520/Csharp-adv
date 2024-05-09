@@ -1,0 +1,14 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\bin\Debug\net8.0\Abstractions.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\bin\Debug\net8.0\Abstractions.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\bin\Debug\net8.0\Abstractions.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\bin\Debug\net8.0\Abstractions.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\bin\Debug\net8.0\Abstractions.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\refint\Abstractions.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\Abstractions.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class2\class2\obj\Debug\net8.0\ref\Abstractions.dll
