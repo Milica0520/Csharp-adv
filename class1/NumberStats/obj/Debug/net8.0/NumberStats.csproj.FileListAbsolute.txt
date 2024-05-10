@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\bin\Debug\net8.0\NumberStats.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\bin\Debug\net8.0\NumberStats.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\bin\Debug\net8.0\NumberStats.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\bin\Debug\net8.0\NumberStats.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\bin\Debug\net8.0\NumberStats.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\refint\NumberStats.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\NumberStats.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\NumberStats\obj\Debug\net8.0\ref\NumberStats.dll

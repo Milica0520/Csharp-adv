@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\bin\Debug\net8.0\class1.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\bin\Debug\net8.0\class1.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\bin\Debug\net8.0\class1.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\bin\Debug\net8.0\class1.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\bin\Debug\net8.0\class1.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\refint\class1.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\class1.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class1\class1\obj\Debug\net8.0\ref\class1.dll

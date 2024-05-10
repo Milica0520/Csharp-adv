@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\UseLINQExercise"
+    "\\class2",
+    "\\class2\\Exercise1",
+    "\\class2\\Exercise1\\Interfaces"
   ],
+  "SelectedNode": "\\class2\\Exercise1\\Interfaces\\IUser.cs",
   "PreviewInSolutionExplorer": false
 }

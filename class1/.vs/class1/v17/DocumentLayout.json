@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2352084-0D24-417A-B6DA-E522E0CA757B}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2352084-0D24-417A-B6DA-E522E0CA757B}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B154133-891B-42E5-84BD-E73C40343299}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B154133-891B-42E5-84BD-E73C40343299}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2352084-0D24-417A-B6DA-E522E0CA757B}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2352084-0D24-417A-B6DA-E522E0CA757B}|Homework\\Homework.csproj|solutionrelative:homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B154133-891B-42E5-84BD-E73C40343299}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B154133-891B-42E5-84BD-E73C40343299}|Homework\\Homework.csproj|solutionrelative:homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34C80500-6FA5-46E0-8E2F-8D02885E2855}|UseLINQExercise\\UseLINQExercise.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\uselinqexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34C80500-6FA5-46E0-8E2F-8D02885E2855}|UseLINQExercise\\UseLINQExercise.csproj|solutionrelative:uselinqexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A085F6DB-4085-4DDB-A668-CC94531B6480}|ExerciseLINQ\\ExerciseLINQ.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\exerciselinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A085F6DB-4085-4DDB-A668-CC94531B6480}|ExerciseLINQ\\ExerciseLINQ.csproj|solutionrelative:exerciselinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A438A76-C10F-4DFE-9C8A-EA54668FEF05}|NumberStats\\NumberStats.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\numberstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A438A76-C10F-4DFE-9C8A-EA54668FEF05}|NumberStats\\NumberStats.csproj|solutionrelative:numberstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A085F6DB-4085-4DDB-A668-CC94531B6480}|ExerciseLINQ\\ExerciseLINQ.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\exerciselinq\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A085F6DB-4085-4DDB-A668-CC94531B6480}|ExerciseLINQ\\ExerciseLINQ.csproj|solutionrelative:exerciselinq\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C8D35AB-DC30-491C-8A3D-EECA0E19F7B4}|class1\\class1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\class1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C8D35AB-DC30-491C-8A3D-EECA0E19F7B4}|class1\\class1.csproj|solutionrelative:class1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C7166F9-A215-41C2-8A76-8C564A42235C}|NumberStats\\NumberStats.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\numberstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7166F9-A215-41C2-8A76-8C564A42235C}|NumberStats\\NumberStats.csproj|solutionrelative:numberstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D47DB1F-A187-4B11-8610-2AD3259C1650}|class1\\class1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class1\\class1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D47DB1F-A187-4B11-8610-2AD3259C1650}|class1\\class1.csproj|solutionrelative:class1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +44,9 @@
               "RelativeDocumentMoniker": "Homework\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\Homework\\Models\\Book.cs",
               "RelativeToolTip": "Homework\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T21:10:36.098Z",
+              "WhenOpened": "2024-05-10T08:54:02.081Z",
               "EditorCaption": ""
             },
             {
@@ -53,48 +57,61 @@
               "RelativeDocumentMoniker": "Homework\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\Homework\\Program.cs",
               "RelativeToolTip": "Homework\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T21:06:17.116Z",
+              "WhenOpened": "2024-05-10T08:52:28.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\ExerciseLINQ\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ExerciseLINQ\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\ExerciseLINQ\\Models\\Person.cs",
+              "RelativeToolTip": "ExerciseLINQ\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:37:49.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\UseLINQExercise\\Program.cs",
-              "RelativeDocumentMoniker": "UseLINQExercise\\Program.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\UseLINQExercise\\Program.cs",
-              "RelativeToolTip": "UseLINQExercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\ExerciseLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciseLINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\ExerciseLINQ\\Program.cs",
+              "RelativeToolTip": "ExerciseLINQ\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T21:04:51.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\NumberStats\\Program.cs",
-              "RelativeDocumentMoniker": "NumberStats\\Program.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\NumberStats\\Program.cs",
-              "RelativeToolTip": "NumberStats\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T21:04:11.679Z",
+              "WhenOpened": "2024-05-10T08:37:14.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\NumberStats\\Program.cs",
+              "RelativeDocumentMoniker": "NumberStats\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\NumberStats\\Program.cs",
+              "RelativeToolTip": "NumberStats\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:05:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\class1\\Program.cs",
               "RelativeDocumentMoniker": "class1\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class1\\class1\\Program.cs",
               "RelativeToolTip": "class1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T21:02:49.783Z",
+              "WhenOpened": "2024-05-10T07:51:17.348Z",
               "EditorCaption": ""
             }
           ]
