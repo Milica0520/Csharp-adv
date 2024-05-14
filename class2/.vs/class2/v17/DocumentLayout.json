@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework2\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework2\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|solutionrelative:homework2\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework2\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework2\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD186A-F33F-472C-8D2D-7775E16A6560}|Homework2\\Homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,11 +106,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Homework2\\Interfaces\\IShape.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Homework2\\Interfaces\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:04:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "Homework2\\Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Models\\Triangle.cs",
+              "RelativeToolTip": "Homework2\\Models\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:00:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "Homework2\\Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Models\\Circle.cs",
+              "RelativeToolTip": "Homework2\\Models\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:00:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Homework2\\Models\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Models\\Rectangle.cs",
+              "RelativeToolTip": "Homework2\\Models\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:00:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Program.cs",
+              "RelativeDocumentMoniker": "Homework2\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework2\\Program.cs",
+              "RelativeToolTip": "Homework2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:59:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ISearchable.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Interfaces\\ISearchable.cs",
               "RelativeDocumentMoniker": "Homework\\Interfaces\\ISearchable.cs",
@@ -98,12 +183,11 @@
               "RelativeToolTip": "Homework\\Interfaces\\ISearchable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:31:23.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T12:31:23.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "WebPage.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Models\\WebPage.cs",
               "RelativeDocumentMoniker": "Homework\\Models\\WebPage.cs",
@@ -111,12 +195,11 @@
               "RelativeToolTip": "Homework\\Models\\WebPage.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:30:35.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T12:30:35.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Models\\Document.cs",
               "RelativeDocumentMoniker": "Homework\\Models\\Document.cs",
@@ -124,25 +207,24 @@
               "RelativeToolTip": "Homework\\Models\\Document.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:30:19.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T12:30:19.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Program.cs",
               "RelativeDocumentMoniker": "Homework\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Program.cs",
               "RelativeToolTip": "Homework\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T12:29:25.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Exercise1\\Models\\Teacher.cs",
@@ -154,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Exercise1\\Models\\Student.cs",
@@ -166,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\User.cs",
               "RelativeDocumentMoniker": "Exercise1\\Models\\User.cs",
@@ -178,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ITeacher.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\ITeacher.cs",
               "RelativeDocumentMoniker": "Exercise1\\Interfaces\\ITeacher.cs",
@@ -190,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "IStudent.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\IStudent.cs",
               "RelativeDocumentMoniker": "Exercise1\\Interfaces\\IStudent.cs",
@@ -202,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "IUser.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\IUser.cs",
               "RelativeDocumentMoniker": "Exercise1\\Interfaces\\IUser.cs",
@@ -214,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise1\\Program.cs",
@@ -226,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "FrontendDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\FrontendDeveloper.cs",
               "RelativeDocumentMoniker": "class2\\Models\\FrontendDeveloper.cs",
@@ -238,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "BackandDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\BackandDeveloper.cs",
               "RelativeDocumentMoniker": "class2\\Models\\BackandDeveloper.cs",
@@ -250,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "IDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Interfaces\\IDeveloper.cs",
               "RelativeDocumentMoniker": "class2\\Interfaces\\IDeveloper.cs",
@@ -262,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "class2\\Enums\\Role.cs",
@@ -274,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\Developer.cs",
               "RelativeDocumentMoniker": "class2\\Models\\Developer.cs",
@@ -286,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Tester.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\Tester.cs",
               "RelativeDocumentMoniker": "class2\\Models\\Tester.cs",
@@ -298,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\Human.cs",
               "RelativeDocumentMoniker": "class2\\Models\\Human.cs",
@@ -310,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Program.cs",
               "RelativeDocumentMoniker": "class2\\Program.cs",
