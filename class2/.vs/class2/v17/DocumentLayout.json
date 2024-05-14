@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|solutionrelative:homework\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework\\models\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|solutionrelative:homework\\models\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\homework\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC4430-CA7E-451A-B156-453A401E2392}|Homework\\Homework.csproj|solutionrelative:homework\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\interfaces\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\interfaces\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +47,28 @@
       "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\interfaces\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\interfaces\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B39418C0-1D19-4A49-8000-D804C156B514}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\frontenddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\models\\frontenddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\backanddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\models\\backanddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\models\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\frontenddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\models\\frontenddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|solutionrelative:class2\\models\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66E8B5A4-7C4E-44DD-94CF-160775C0EF40}|class2\\Abstractions.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class2\\class2\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,35 +86,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Interfaces\\ISearchable.cs",
+              "RelativeDocumentMoniker": "Homework\\Interfaces\\ISearchable.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Interfaces\\ISearchable.cs",
+              "RelativeToolTip": "Homework\\Interfaces\\ISearchable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:31:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Models\\WebPage.cs",
+              "RelativeDocumentMoniker": "Homework\\Models\\WebPage.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Models\\WebPage.cs",
+              "RelativeToolTip": "Homework\\Models\\WebPage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:30:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Homework\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Models\\Document.cs",
+              "RelativeToolTip": "Homework\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:30:19.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Homework\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Homework\\Program.cs",
+              "RelativeToolTip": "Homework\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:29:25.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\Teacher.cs",
+              "RelativeToolTip": "Exercise1\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:50:06.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\Student.cs",
+              "RelativeToolTip": "Exercise1\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:47:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Models\\User.cs",
+              "RelativeToolTip": "Exercise1\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:45:36.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ITeacher.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\ITeacher.cs",
               "RelativeDocumentMoniker": "Exercise1\\Interfaces\\ITeacher.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\ITeacher.cs",
               "RelativeToolTip": "Exercise1\\Interfaces\\ITeacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T18:15:28.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "IStudent.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\IStudent.cs",
               "RelativeDocumentMoniker": "Exercise1\\Interfaces\\IStudent.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\IStudent.cs",
               "RelativeToolTip": "Exercise1\\Interfaces\\IStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T18:15:11.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "IUser.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Interfaces\\IUser.cs",
               "RelativeDocumentMoniker": "Exercise1\\Interfaces\\IUser.cs",
@@ -94,24 +210,23 @@
               "RelativeToolTip": "Exercise1\\Interfaces\\IUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:14:32.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T18:14:32.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise1\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\Exercise1\\Program.cs",
               "RelativeToolTip": "Exercise1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T18:13:23.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FrontendDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\FrontendDeveloper.cs",
               "RelativeDocumentMoniker": "class2\\Models\\FrontendDeveloper.cs",
@@ -123,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "BackandDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\BackandDeveloper.cs",
               "RelativeDocumentMoniker": "class2\\Models\\BackandDeveloper.cs",
@@ -135,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "IDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Interfaces\\IDeveloper.cs",
               "RelativeDocumentMoniker": "class2\\Interfaces\\IDeveloper.cs",
@@ -147,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "class2\\Enums\\Role.cs",
@@ -159,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\Developer.cs",
               "RelativeDocumentMoniker": "class2\\Models\\Developer.cs",
@@ -171,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Tester.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\Tester.cs",
               "RelativeDocumentMoniker": "class2\\Models\\Tester.cs",
@@ -183,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Models\\Human.cs",
               "RelativeDocumentMoniker": "class2\\Models\\Human.cs",
@@ -195,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class2\\class2\\Program.cs",
               "RelativeDocumentMoniker": "class2\\Program.cs",

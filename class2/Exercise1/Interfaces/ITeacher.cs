@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exercise1.Interfaces
 {
-    internal interface ITeacher
+    public interface ITeacher
     {
+        string Subject { get; set; }
+        
     }
 }

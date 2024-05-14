@@ -3,8 +3,10 @@
     "",
     "\\class2",
     "\\class2\\Exercise1",
-    "\\class2\\Exercise1\\Interfaces"
+    "\\class2\\Exercise1\\Interfaces",
+    "\\class2\\Homework",
+    "\\class2\\Homework\\Models"
   ],
-  "SelectedNode": "\\class2\\Exercise1\\Interfaces\\IUser.cs",
+  "SelectedNode": "\\class2\\Homework\\Models\\Document.cs",
   "PreviewInSolutionExplorer": false
 }
