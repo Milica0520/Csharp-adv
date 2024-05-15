@@ -8,7 +8,7 @@ namespace Homework.Interfaces
 {
     public interface ISearchable
     {
-        public string Word { get; set; }
+       
         void Search(string word);
     }
 }
