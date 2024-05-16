@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\class2",
-    "\\class2\\Exercise1\\Interfaces",
     "\\class2\\Homework2",
     "\\class2\\Homework2\\Models",
-    "\\class2\\Homework\\Models",
-    "\\class3"
+    "\\class3",
+    "\\class3\\class3"
   ],
-  "SelectedNode": "\\class2\\Homework2\\Models\\Circle.cs",
+  "SelectedNode": "\\class3\\class3\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\interfaces\\ilibraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\interfaces\\ilibraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EDEE257-7037-48AA-AEBD-14514B0602A1}|class3\\class3.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\class3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EDEE257-7037-48AA-AEBD-14514B0602A1}|class3\\class3.csproj|solutionrelative:class3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,16 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Library.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:13:44.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\DVD.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\DVD.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\DVD.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\DVD.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:07:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Magazine.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Magazine.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Magazine.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:04:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comic.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Comic.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Comic.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Comic.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Comic.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:58:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:32:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\LibraryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:25:35.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:23:50.987Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:21:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\class3\\Program.cs",
               "RelativeDocumentMoniker": "class3\\Program.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\class3\\Program.cs*",
-              "RelativeToolTip": "class3\\Program.cs*",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\class3\\Program.cs",
+              "RelativeToolTip": "class3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T15:13:52.843Z",
