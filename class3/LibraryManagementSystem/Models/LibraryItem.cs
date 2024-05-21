@@ -9,13 +9,13 @@ namespace LibraryManagementSystem.Models
 {
     public abstract  class LibraryItem : ILibraryItem
     {
-        public string Title { get; set; }
+        public required string Title { get; set; }
 
-        public string Author { get; set; }
+        public required string Author { get; set; }
 
         public int YearPublished { get; set; }
 
-        public bool IsBorrowed { get; set; }
+        public bool IsBorrowed { get;  set; } = false;
 
         
         public void BorrowItem()

@@ -8,32 +8,18 @@ namespace LibraryManagementSystem.Models
 {
     public class DVD : LibraryItem
     {
-        public string Title { get; set; }
+       
+        public int DurationInMinutes { get; set; }
 
-        public string Director { get; set; }
-
-        public int YearOfProduction { get; set; }
-
-        public bool IsBorrowed { get; set; }= false;
-
-        public decimal Duration { get; set; }
-
-        public int Rating { get; set; }
-        public DVD(string titele, string director, int yearOfProduction, decimal duration)
-        {
-            Title = titele;
-            Director = director;
-            YearOfProduction = yearOfProduction;
-            Duration = duration;
-           
-        }
-        public override void GetDetails()
+        public required int Rating { get; set; }
+     
+        public override void GetDetails()//nije ispisivao isBorrowed
         {
             Console.WriteLine
                 (
-                $"The book details: \nTitle - {Title}, \nDirected by - {Director}, " +
+                $"The book details: \nTitle - {Title}, \nDirected by - {}, " +
                 $"\nProduction year - {YearOfProduction}, " +
-                $"\nDuration - {Duration}," +
+                $"\nDuration - {DurationInMinutes}," +
                 $"\nAvailability stats - {IsBorrowed}"
                 );
         }

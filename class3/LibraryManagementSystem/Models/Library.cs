@@ -7,44 +7,37 @@ using System.Threading.Tasks;
 
 namespace LibraryManagementSystem.Models
 {
-    public class Library 
+    public class Library //ne bi trebalo da bude u folderu models
     {
-        List<ILibraryItem> LibraryItems { get; set; }
-
-        public Library(List<ILibraryItem> libraryItems)
-        {
-            LibraryItems = libraryItems;    
-        }
+        private List<ILibraryItem> LibraryItems { get; set; }//_items konvencija za privatno polje
+      //  private readonly List<ILibraryItem> _libraryItems = new();ovo je fild , readonly ????
+     
 
         public void AddItem(ILibraryItem inputItem) {
             LibraryItems.Add(inputItem);
         }
         public void RemoveItem(ILibraryItem inputItem)
         {
-            foreach (ILibraryItem item in LibraryItems)
-            {
-                if(inputItem == item)
-                {
-                    LibraryItems.Remove(inputItem);
-                }
-                else
-                {
-                    Console.WriteLine("No such item in Library to remove.");
-                }
-            }
+           
+            LibraryItems.Remove(inputItem);
            
         }
-        public void BorrowItem()
+        public void BorrowCurrItem(ILibraryItem inputItem)
         {
+            inputItem.BorrowItem();
 
         }
-        public void ReturnItem()
+        public void ReturnCurrItem(ILibraryItem inputItem)
         {
-
+            inputItem.ReturnItem();
         }
         public void DisplayItemDetails()
         {
-            
+            foreach (var item in LibraryItems)
+            {
+                item.GetDetails();
+            }
+
         }
     }
 }

@@ -8,10 +8,12 @@ namespace LibraryManagementSystem
     {
         static void Main(string[] args)
         {
+
+           // 
             List<ILibraryItem> listOfItems = new List<ILibraryItem>
             {
-            new Book("Pride and Prejudice", "Jane Austen", 1813, 9780141439518, "Romance"),
-            new Book("The Hobbit", "J.R.R. Tolkien", 1937, 9780345534835, "Fantasy"),
+            new Book{ Title = "Pride and Prejudice", Author = "Jane Austen", YearPublished = 1813, Isbn = 9780141439518, Genre = "Romance"},
+            new Book("The Hobbit", "J.R.R. Tolkien", 1937, 9780345534835),
             new Book("The Lord of the Rings", "J.R.R. Tolkien", 1954, 9780618640157, "Fantasy"),
             new Book("The Hitchhiker's Guide to the Galaxy", "Douglas Adams", 1979, 9780345391803, "Science Fiction"),
             new Book("Brave New World", "Aldous Huxley", 1932, 9780060850524, "Dystopian"),

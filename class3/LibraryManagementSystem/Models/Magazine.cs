@@ -8,28 +8,15 @@ namespace LibraryManagementSystem.Models
 {
     public class Magazine : LibraryItem
     {
-        public string Title { get; set; }
+     
 
-        public string Publisher { get; set; }
+        public string Publisher { get; set; }//string.Empty
 
-        public int YearPublished { get; set; }
+        public required int IssueNumber { get; set; }
 
-        public bool IsBorrowed { get; set; } = false;
-
-        public int IssueNumber { get; set; }
-
-
-
-        public Magazine(string title,  string publisher, int yearPublished, int issueNumber)
-        {
-            Title = title;
-            Publisher = publisher;
-            YearPublished = yearPublished;
-            IssueNumber = issueNumber;
-        }
         public override void GetDetails()
         {
-            Console.WriteLine($"The book details: \nTitle - {Title}, \nPublisher - {Publisher}, " +
+            Console.WriteLine($"The magazine details: \nTitle - {Title}, \nPublisher - {Publisher}, " +
                $"\nPublished - {YearPublished}, " +
                $"\nIssue number - {IssueNumber}," +
                $"\nAvailability stats - {IsBorrowed}");
