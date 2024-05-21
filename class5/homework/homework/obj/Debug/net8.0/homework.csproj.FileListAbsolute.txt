@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\bin\Debug\net8.0\homework.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\bin\Debug\net8.0\homework.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\bin\Debug\net8.0\homework.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\bin\Debug\net8.0\homework.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\bin\Debug\net8.0\homework.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\refint\homework.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\homework.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework\homework\obj\Debug\net8.0\ref\homework.dll
