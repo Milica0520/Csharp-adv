@@ -29,5 +29,6 @@ namespace homework_task2.Models
                 return $"I am a {TypeOfVehicle} and I have couple of weels. :) ";
             }
         }
+     
     }
 }

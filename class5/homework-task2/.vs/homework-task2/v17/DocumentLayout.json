@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{12D8B215-D9EA-4DFD-A088-7AD47D7699EA}|homework-task2\\homework-task2.csproj|solutionrelative:homework-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12D8B215-D9EA-4DFD-A088-7AD47D7699EA}|homework-task2\\homework-task2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\homework-task2\\homework-task2\\models\\vehicledriving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D8B215-D9EA-4DFD-A088-7AD47D7699EA}|homework-task2\\homework-task2.csproj|solutionrelative:homework-task2\\models\\vehicledriving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12D8B215-D9EA-4DFD-A088-7AD47D7699EA}|homework-task2\\homework-task2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\homework-task2\\homework-task2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D8B215-D9EA-4DFD-A088-7AD47D7699EA}|homework-task2\\homework-task2.csproj|solutionrelative:homework-task2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VehicleDriving.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\VehicleDriving.cs",
+              "RelativeDocumentMoniker": "homework-task2\\Models\\VehicleDriving.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\VehicleDriving.cs",
+              "RelativeToolTip": "homework-task2\\Models\\VehicleDriving.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:01:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "homework-task2\\Models\\Vehicle.cs",
@@ -51,52 +68,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AirPlane.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\AirPlane.cs",
               "RelativeDocumentMoniker": "homework-task2\\Models\\AirPlane.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\AirPlane.cs",
               "RelativeToolTip": "homework-task2\\Models\\AirPlane.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAABOAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T08:15:37.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Boat.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\Boat.cs",
               "RelativeDocumentMoniker": "homework-task2\\Models\\Boat.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\Boat.cs",
               "RelativeToolTip": "homework-task2\\Models\\Boat.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAABOAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T08:15:15.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MotorBike.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\MotorBike.cs",
               "RelativeDocumentMoniker": "homework-task2\\Models\\MotorBike.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\MotorBike.cs",
               "RelativeToolTip": "homework-task2\\Models\\MotorBike.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABHAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T08:14:57.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\Car.cs",
               "RelativeDocumentMoniker": "homework-task2\\Models\\Car.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Models\\Car.cs",
               "RelativeToolTip": "homework-task2\\Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABOAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T08:14:18.523Z",
               "EditorCaption": ""
@@ -109,7 +126,7 @@
               "RelativeDocumentMoniker": "homework-task2\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\homework-task2\\homework-task2\\Program.cs",
               "RelativeToolTip": "homework-task2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T08:13:15.046Z",
               "EditorCaption": ""
