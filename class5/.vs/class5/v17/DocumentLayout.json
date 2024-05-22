@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{A7F40BFF-7D8E-44D7-890D-0D3E30038A58}|GettersAndSetters\\GettersAndSetters.csproj|solutionrelative:gettersandsetters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\staticclassesandpolimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|solutionrelative:staticclassesandpolimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\staticclassesandpolimorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|solutionrelative:staticclassesandpolimorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\staticclassesandpolimorphism\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|solutionrelative:staticclassesandpolimorphism\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\staticclassesandpolimorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|solutionrelative:staticclassesandpolimorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\staticclassesandpolimorphism\\helpers\\texthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|solutionrelative:staticclassesandpolimorphism\\helpers\\texthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\staticclassesandpolimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200D03C5-4684-4278-AC02-8C949F356429}|StaticClassesandPolimorphism\\StaticClassesandPolimorphism.csproj|solutionrelative:staticclassesandpolimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF53432-9AF4-4E85-9DAE-662A5F0D2443}|class5\\class5.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class5\\class5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "GettersAndSetters\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:48:30.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T09:48:30.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\StaticClassesandPolimorphism\\Models\\Dog.cs",
               "RelativeDocumentMoniker": "StaticClassesandPolimorphism\\Models\\Dog.cs",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "StaticClassesandPolimorphism\\Models\\Dog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:14:55.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T09:14:55.134Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "StaticClassesandPolimorphism\\Models\\Cat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:12:57.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T09:12:57.076Z"
             },
             {
               "$type": "Document",
@@ -106,12 +103,11 @@
               "RelativeToolTip": "StaticClassesandPolimorphism\\Models\\Pet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:10:40.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T09:10:40.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TextHelpers.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\StaticClassesandPolimorphism\\Helpers\\TextHelpers.cs",
               "RelativeDocumentMoniker": "StaticClassesandPolimorphism\\Helpers\\TextHelpers.cs",
@@ -119,12 +115,11 @@
               "RelativeToolTip": "StaticClassesandPolimorphism\\Helpers\\TextHelpers.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAQwCwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:21:54.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:21:54.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class5\\StaticClassesandPolimorphism\\Program.cs",
               "RelativeDocumentMoniker": "StaticClassesandPolimorphism\\Program.cs",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "StaticClassesandPolimorphism\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:11:14.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:11:14.79Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "class5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:06:45.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:06:45.246Z"
             }
           ]
         }

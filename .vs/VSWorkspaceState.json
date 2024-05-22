@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\class3\\LibraryManagementSystem\\Models",
-    "\\class4\\class4",
-    "\\class5"
+    "\\class5",
+    "\\class5\\GettersAndSetters",
+    "\\class5\\GettersAndSetters\\Models",
+    "\\class6\\Exercise1",
+    "\\class6\\Exercise1\\Utils"
   ],
+  "SelectedNode": "\\class5\\GettersAndSetters\\Models\\Person.cs",
   "PreviewInSolutionExplorer": false
 }

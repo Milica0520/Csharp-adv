@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\bin\Debug\net8.0\homework-task2.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\bin\Debug\net8.0\homework-task2.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\bin\Debug\net8.0\homework-task2.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\bin\Debug\net8.0\homework-task2.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\bin\Debug\net8.0\homework-task2.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\refint\homework-task2.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\homework-task2.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class5\homework-task2\homework-task2\obj\Debug\net8.0\ref\homework-task2.dll
