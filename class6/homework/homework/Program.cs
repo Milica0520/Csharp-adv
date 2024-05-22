@@ -1,6 +1,4 @@
-﻿using homework.Models;
-
-namespace homework
+﻿namespace homework
 {
     public class Program
     {
