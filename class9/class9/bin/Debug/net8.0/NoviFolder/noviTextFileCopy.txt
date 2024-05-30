@@ -1,0 +1,3 @@
+Hallo , world from file.txt.Danas je cetvrtak.
+Novi red dodan.
+proba za kopirani fajl
