@@ -1,0 +1,5 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\obj\Debug\net6.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\obj\Debug\net6.0\mslearn-dotnet-files.sourcelink.json

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B3FA0-8A62-4905-A5A9-6CC2937C88E9}|Exercise2\\Exercise2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B3FA0-8A62-4905-A5A9-6CC2937C88E9}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B3FA0-8A62-4905-A5A9-6CC2937C88E9}|Exercise2\\Exercise2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise2\\exercise2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B3FA0-8A62-4905-A5A9-6CC2937C88E9}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B3FA0-8A62-4905-A5A9-6CC2937C88E9}|Exercise2\\Exercise2.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise2\\exercise2\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B3FA0-8A62-4905-A5A9-6CC2937C88E9}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\Exercise2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\Exercise2\\Models\\Book.cs",
+              "RelativeToolTip": "Exercise2\\Models\\Book.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:36:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\Exercise2\\Interfaces\\IBook.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Interfaces\\IBook.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\Exercise2\\Interfaces\\IBook.cs",
+              "RelativeToolTip": "Exercise2\\Interfaces\\IBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:35:07.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeToolTip": "Exercise2\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:34:07.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\atm-app\\atm-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|solutionrelative:atm-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\atm-app\\atm-app\\models\\accountsmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|solutionrelative:atm-app\\models\\accountsmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\atm-app\\atm-app\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|solutionrelative:atm-app\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\atm-app\\atm-app\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|solutionrelative:atm-app\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\atm-app\\atm-app\\models\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|solutionrelative:atm-app\\models\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\atm-app\\atm-app\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF0C27B-8D4B-4948-89D5-F89C175C19D9}|ATM-App\\ATM-App.csproj|solutionrelative:atm-app\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsMenager.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\AccountsMenager.cs",
+              "RelativeDocumentMoniker": "ATM-App\\Models\\AccountsMenager.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\AccountsMenager.cs",
+              "RelativeToolTip": "ATM-App\\Models\\AccountsMenager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:20:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Interfaces\\IAccount.cs",
+              "RelativeDocumentMoniker": "ATM-App\\Interfaces\\IAccount.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Interfaces\\IAccount.cs",
+              "RelativeToolTip": "ATM-App\\Interfaces\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:48:37.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "ATM-App\\Models\\CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\CheckingAccount.cs",
+              "RelativeToolTip": "ATM-App\\Models\\CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:46:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "ATM-App\\Models\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\SavingsAccount.cs",
+              "RelativeToolTip": "ATM-App\\Models\\SavingsAccount.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:42:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ATM-App\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Models\\Account.cs",
+              "RelativeToolTip": "ATM-App\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:39:37.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Program.cs",
+              "RelativeDocumentMoniker": "ATM-App\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\ATM-App\\ATM-App\\Program.cs",
+              "RelativeToolTip": "ATM-App\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:38:32.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

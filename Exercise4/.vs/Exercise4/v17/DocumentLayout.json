@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB40E1E2-1419-480B-83FE-5279D64C7C4B}|Exercise4\\Exercise4.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise4\\exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB40E1E2-1419-480B-83FE-5279D64C7C4B}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB40E1E2-1419-480B-83FE-5279D64C7C4B}|Exercise4\\Exercise4.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise4\\exercise4\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB40E1E2-1419-480B-83FE-5279D64C7C4B}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise4\\Exercise4\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise4\\Exercise4\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Exercise4\\Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:23:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise4\\Exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise4\\Exercise4\\Program.cs",
+              "RelativeToolTip": "Exercise4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:20:29.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

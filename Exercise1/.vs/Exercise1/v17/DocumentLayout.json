@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6127BED2-9700-4A97-AF84-54E61238ACCC}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6127BED2-9700-4A97-AF84-54E61238ACCC}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6127BED2-9700-4A97-AF84-54E61238ACCC}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise1\\exercise1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6127BED2-9700-4A97-AF84-54E61238ACCC}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6127BED2-9700-4A97-AF84-54E61238ACCC}|Exercise1\\Exercise1.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\exercise1\\exercise1\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6127BED2-9700-4A97-AF84-54E61238ACCC}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\Exercise1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\Exercise1\\Models\\Product.cs",
+              "RelativeToolTip": "Exercise1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:13:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\Exercise1\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\Exercise1\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "Exercise1\\Interfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:12:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\Exercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\Exercise1\\Exercise1\\Program.cs",
+              "RelativeToolTip": "Exercise1\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:11:15.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
