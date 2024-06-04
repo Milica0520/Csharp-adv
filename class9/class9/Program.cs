@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using class9.Utils;
+using System.Security.Cryptography.X509Certificates;
 
 namespace class9
 {
@@ -143,6 +144,25 @@ namespace class9
                                                                        // File.Copy(newFilePath, newFolderPath + "\\noviTextFileCopy.txt");
             }
             */
+            /////////////////class11
+            string path = "newFile.txt";
+
+
+            if (File.Exists(path) == false)
+            {
+                File.Create(path)
+                    .Close();  
+
+            }
+
+            OurTextWriter ourTextWriter = new OurTextWriter(path);
+
+            ourTextWriter.Write("We are learning C#.");
+
+
+
+
+
         }
 
         public static string calculateSum(int num1, int num2)
@@ -151,6 +171,8 @@ namespace class9
             sum = num1 + num2;
             return $"{DateTime.Today}:{num1} + {num2} = {sum} ";
         }
+
+       
 
 
 

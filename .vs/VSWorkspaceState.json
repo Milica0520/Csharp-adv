@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\class10",
+    "\\class11",
     "\\class5",
     "\\class5\\GettersAndSetters",
     "\\class5\\GettersAndSetters\\Models",
-    "\\class6\\Exercise1",
-    "\\class6\\Exercise1\\Utils"
+    "\\class9",
+    "\\class9\\class9"
   ],
-  "SelectedNode": "\\class5\\GettersAndSetters\\Models\\Person.cs",
+  "SelectedNode": "\\class9\\class9\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
