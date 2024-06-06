@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\ourdata\\dogs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:ourdata\\dogs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\ourdata\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:ourdata\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\ourdata\\myfirstjson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:ourdata\\myfirstjson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\entitis\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:entitis\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\entitis\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:entitis\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class13\\entitis\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA8866-E1D7-4DFC-BBED-CC97B2BDE1F3}|class13.csproj|solutionrelative:entitis\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dogs.json",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\OurData\\dogs.json",
+              "RelativeDocumentMoniker": "OurData\\dogs.json",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\OurData\\dogs.json",
+              "RelativeToolTip": "OurData\\dogs.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T17:25:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Entitis\\Dog.cs",
+              "RelativeDocumentMoniker": "Entitis\\Dog.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Entitis\\Dog.cs",
+              "RelativeToolTip": "Entitis\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:18:26.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Entitis\\Movie.cs",
+              "RelativeDocumentMoniker": "Entitis\\Movie.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Entitis\\Movie.cs",
+              "RelativeToolTip": "Entitis\\Movie.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:44:47.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "movies.json",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\OurData\\movies.json",
+              "RelativeDocumentMoniker": "OurData\\movies.json",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\OurData\\movies.json",
+              "RelativeToolTip": "OurData\\movies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T16:39:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Entitis\\Student.cs",
+              "RelativeDocumentMoniker": "Entitis\\Student.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Entitis\\Student.cs",
+              "RelativeToolTip": "Entitis\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:14:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myFirstJson.json",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\OurData\\myFirstJson.json",
+              "RelativeDocumentMoniker": "OurData\\myFirstJson.json",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\OurData\\myFirstJson.json",
+              "RelativeToolTip": "OurData\\myFirstJson.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T15:51:55.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:50:58.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
