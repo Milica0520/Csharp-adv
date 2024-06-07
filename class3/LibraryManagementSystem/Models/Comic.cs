@@ -8,20 +8,19 @@ namespace LibraryManagementSystem.Models
 {
     public class Comic : LibraryItem
     {
-       
+  
 
-        public string Artist { get; set; }//required-samo je ovo stavio
+        public required string Artist { get; set; }
 
-      
-        public override void GetDetails()
+        public override string GetDetails()
         {
-            Console.WriteLine
-                (
-                $"The comic details: \nTitle - {Title}," +
+           return 
+                $"Comic details: \nTitle - {Title}," +
                 $"\nArtist - {Artist}, " +
+                $"\nAuthor - {Author}, " +
                 $"\nPublished - {YearPublished}, " +
                 $"\nAvailability stats - {IsBorrowed}"
-                );
+                ;
         }
     }
 }

@@ -12,33 +12,43 @@ namespace LibraryManagementSystem
            // 
             List<ILibraryItem> listOfItems = new List<ILibraryItem>
             {
-            new Book{ Title = "Pride and Prejudice", Author = "Jane Austen", YearPublished = 1813, Isbn = 9780141439518, Genre = "Romance"},
-            new Book("The Hobbit", "J.R.R. Tolkien", 1937, 9780345534835),
-            new Book("The Lord of the Rings", "J.R.R. Tolkien", 1954, 9780618640157, "Fantasy"),
-            new Book("The Hitchhiker's Guide to the Galaxy", "Douglas Adams", 1979, 9780345391803, "Science Fiction"),
-            new Book("Brave New World", "Aldous Huxley", 1932, 9780060850524, "Dystopian"),
-            //
-            new DVD("Inception", "Christopher Nolan", 2010, 148.5m),
-            new DVD("The Dark Knight", "Christopher Nolan", 2008, 152.0m),
-            new DVD("Pulp Fiction", "Quentin Tarantino", 1994, 154.0m),
-            new DVD("The Shawshank Redemption", "Frank Darabont", 1994, 142.0m),
-            new DVD("Fight Club", "David Fincher", 1999, 139.0m),
-            //
-            new Comic("Spider-Man: The Amazing Spider-Man", "Stan Lee", 1963),
-            new Comic("Batman: The Dark Knight Returns", "Frank Miller", 1986),
-            new Comic("Superman: The Death of Superman", "Dan Jurgens", 1992),
-            new Comic("X-Men: The Dark Phoenix Saga", "Chris Claremont", 1980),
-            new Comic("Watchmen", "Alan Moore", 1986),
-            //
-            new Magazine("National Geographic", "National Geographic Partners", 2023, 5),
-            new Magazine("Time", "Time USA, LLC", 2023, 20),
-            new Magazine("The Economist", "The Economist Newspaper Limited", 2023, 9839),
-            new Magazine("Vogue", "Condé Nast", 2023, 653),
-            new Magazine("Rolling Stone", "Penske Media Corporation", 2023, 1346)
+                new Comic
+        {
+            Title = "The Amazing Spiderman",
+            Author = "Stan Lee",
+            Artist = "Steve Ditko",
+            YearPublished = 1963
+        },
 
-            };
-            Library CityLibrery = new(listOfItems);
-         
+            new Book
+            {
+                Title = "The Catcher in the Rye",
+                Author = "J.D. Salinger",
+                Isbn = "978-3-16-148410-0",
+                YearPublished = 1951
+            },
+           new Book
+            {
+                Title = "The Great Gatsby",
+                Author = "F. Scott Fitzgerald",
+                Isbn = "978-3-16-148410-1",
+                YearPublished = 1925
+            },
+
+           new DVD
+            {
+                Title = "The Godfather",
+                Author = "Francis Ford Coppola",
+                DurationInMinutes = 175,
+                YearPublished = 1972,
+                Rating = 7
+            },
+
+        };
+
+
+            Library CityLibrery = new();
+        
           
             Console.WriteLine("Welcome to Library Menagmnet sistem.");
             Console.WriteLine("Choose an option:");
@@ -67,17 +77,17 @@ namespace LibraryManagementSystem
                         Console.WriteLine("Enter publishing year of the book:");
                         int yearInp = int.Parse(Console.ReadLine());
                         Console.WriteLine("Enter ISBN (13 dogits) number of the book:");
-                        long isbnInp = long.Parse(Console.ReadLine());
+                        string isbnInp = Console.ReadLine();
                         Console.WriteLine("Enter genre of the book:");
                         string genreInp = Console.ReadLine();
 
-                        Book newItem = new(titleInp, authorInp, yearInp, isbnInp, genreInp);
+                       
+                        Book newItem = new Book { Author = authorInp, Title = titleInp, Isbn = isbnInp, YearPublished = yearInp };
 
-                        CityLibrery.AddItem(newItem);
-                        
-                      
+                        CityLibrery.AddNewItem(newItem);
+
+
                     }
-
                     break;
                 case 2:
 
@@ -102,6 +112,10 @@ namespace LibraryManagementSystem
 
             
 
+        }
+        public void AddNewItem()
+        {
+        
         }
 
 

@@ -7,37 +7,37 @@ using System.Threading.Tasks;
 
 namespace LibraryManagementSystem.Models
 {
-    public class Library //ne bi trebalo da bude u folderu models
+    public class Library 
     {
-        private List<ILibraryItem> LibraryItems { get; set; }//_items konvencija za privatno polje
-      //  private readonly List<ILibraryItem> _libraryItems = new();ovo je fild , readonly ????
-     
 
-        public void AddItem(ILibraryItem inputItem) {
-            LibraryItems.Add(inputItem);
+      private readonly List<ILibraryItem> _libraryItems = new();
+
+        public void AddNewItem(ILibraryItem inputItem) 
+        {
+            _libraryItems.Add(inputItem);
         }
+
         public void RemoveItem(ILibraryItem inputItem)
         {
-           
-            LibraryItems.Remove(inputItem);
-           
+            _libraryItems.Remove(inputItem);    
         }
+
         public void BorrowCurrItem(ILibraryItem inputItem)
         {
             inputItem.BorrowItem();
-
         }
+
         public void ReturnCurrItem(ILibraryItem inputItem)
         {
             inputItem.ReturnItem();
         }
+
         public void DisplayItemDetails()
         {
             foreach (var item in LibraryItems)
             {
-                item.GetDetails();
+                Console.WriteLine(item.GetDetails());
             }
-
         }
     }
 }

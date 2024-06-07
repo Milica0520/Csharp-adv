@@ -8,20 +8,23 @@ namespace LibraryManagementSystem.Models
 {
     public class DVD : LibraryItem
     {
-       
-        public int DurationInMinutes { get; set; }
+   
+
+        public decimal DurationInMinutes { get; set; }
 
         public required int Rating { get; set; }
+
+
      
-        public override void GetDetails()//nije ispisivao isBorrowed
+     
+        public override string GetDetails()
         {
-            Console.WriteLine
-                (
-                $"The book details: \nTitle - {Title}, \nDirected by - {}, " +
-                $"\nProduction year - {YearOfProduction}, " +
-                $"\nDuration - {DurationInMinutes}," +
+           return 
+                $"The book details: \nTitle - {Title}, \nDirected by - {Author}, " +
+                $"\nProduction year - {YearPublished}, " +
+                $"\nDuration - {DurationInMinutes} minutes," +
                 $"\nAvailability stats - {IsBorrowed}"
-                );
+         ;
         }
     }
 }

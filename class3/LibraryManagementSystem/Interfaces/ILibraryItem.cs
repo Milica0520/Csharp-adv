@@ -9,13 +9,11 @@ namespace LibraryManagementSystem.Interfaces
 {
     public interface ILibraryItem
     {
-        public string Title {
-            get; set;
-        }  
 
-        pub
+        string Title { get; }
+        bool IsBorrowed { get; }
         public void BorrowItem();
         public void ReturnItem();
-        public void GetDetails();//string
+        public string GetDetails();
     }
 }
