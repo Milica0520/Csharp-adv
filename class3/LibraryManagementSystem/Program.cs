@@ -46,12 +46,11 @@ namespace LibraryManagementSystem
 
         };
 
+            Library CityLibrery = new(listOfItems);
 
-            Library CityLibrery = new();
-        
-          
             Console.WriteLine("Welcome to Library Menagmnet sistem.");
             Console.WriteLine("Choose an option:");
+            Console.WriteLine("0. Search item: ");
             Console.WriteLine("1. Add a library item");
             Console.WriteLine("2. Remove a library item");
             Console.WriteLine("3. Borrow a library item");
@@ -64,35 +63,40 @@ namespace LibraryManagementSystem
 
             switch (userInput)
             {
-                case 1:
-                    Console.WriteLine("Choose Type of Item to add: (Book, Magazine, Comic, DVD)");
-                    string typeInp = Console.ReadLine();
-                    //
-                    if (typeInp.ToLower() == "book")
+                case 0:
+                    Console.WriteLine("Enter Type of Item (Book, Magazine, Comic, DVD): ");
+                    string itemsTypeInp = (Console.ReadLine()).ToLower();
+
+                   string[] types = new string[] { "book", "magazine", "comic", "dvd" };
+
+                
+
+                    foreach (string type in types)
                     {
-                        Console.WriteLine("Enter title of the book:");
-                        string titleInp = Console.ReadLine();
-                        Console.WriteLine("Enter author of the book:");
-                        string authorInp = Console.ReadLine();
-                        Console.WriteLine("Enter publishing year of the book:");
-                        int yearInp = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Enter ISBN (13 dogits) number of the book:");
-                        string isbnInp = Console.ReadLine();
-                        Console.WriteLine("Enter genre of the book:");
-                        string genreInp = Console.ReadLine();
-
-                       
-                        Book newItem = new Book { Author = authorInp, Title = titleInp, Isbn = isbnInp, YearPublished = yearInp };
-
-                        CityLibrery.AddNewItem(newItem);
-
-
+                        List<ILibraryItem> itemsWithTypeOf = listOfItems
+                             .Where(item => item.GetType() == typeof(Book))
+                             .ToList();
                     }
+
+
+
+
+
+
+
+
+
+
+
+                    break;
+                case 1:
+                    AddNewItem();
                     break;
                 case 2:
-
+                    RemoveLibraryItem();
                     break;
                 case 3:
+
 
                     break;
                 case 4:
@@ -109,16 +113,59 @@ namespace LibraryManagementSystem
                     break;
 
             }
+             void AddNewItem()
+            {
+                Console.WriteLine("Choose Type of Item to add: (Book, Magazine, Comic, DVD)");
+                string typeInp = Console.ReadLine().ToLower();
+                //
+                if (typeInp.ToLower() == "book")
+                {
+                    Console.WriteLine("Enter title of the book:");
+                    string titleInp = Console.ReadLine();
+                    Console.WriteLine("Enter author of the book:");
+                    string authorInp = Console.ReadLine();
+                    Console.WriteLine("Enter publishing year of the book:");
+                    int yearInp = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter ISBN (13 dogits) number of the book:");
+                    string isbnInp = Console.ReadLine();
 
-            
+                    Book newItem = new Book { Author = authorInp, Title = titleInp, Isbn = isbnInp, YearPublished = yearInp };
+
+                    CityLibrery.AddItem(newItem);
+                }
+
+            }
+
+            void RemoveLibraryItem()
+            {
+                Console.WriteLine("Enter Type of Item you want to remove : ");
+                string searchedItem = (Console.ReadLine().ToLower());
+                List<ILibraryItem> typeOfItems = listOfItems
+                    .Where(item => item.GetType() == typeof(Book))
+                    .ToList();
+
+                foreach (ILibraryItem item in typeOfItems)
+                {
+                    Console.WriteLine($"{item.GetDetails()}");
+                }
+                Console.WriteLine("Enter title of item you want to remove(Book, Magazine, Comic, DVD): ");
+                string itemTitleToRemove = (Console.ReadLine()).ToLower();
+
+
+                foreach (ILibraryItem item in typeOfItems)
+                {
+                    if (item.Title == itemTitleToRemove)
+                    {
+                        CityLibrery.RemoveItem(item);
+
+                    }
+                    Console.WriteLine($"{item.Title} has been removed");
+                }
+            }
+            //trebam napraviti funkciju za provjeru inputa
 
         }
-        public void AddNewItem()
-        {
-        
-        }
-
-
+      
 
 
 

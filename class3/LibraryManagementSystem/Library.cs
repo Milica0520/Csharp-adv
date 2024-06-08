@@ -12,7 +12,13 @@ namespace LibraryManagementSystem.Models
 
       private readonly List<ILibraryItem> _libraryItems = new();
 
-        public void AddNewItem(ILibraryItem inputItem) 
+        public Library(List<ILibraryItem> libraryItems) {
+        
+            _libraryItems = libraryItems;
+        }
+
+
+        public void AddItem(ILibraryItem inputItem) 
         {
             _libraryItems.Add(inputItem);
         }
@@ -34,10 +40,12 @@ namespace LibraryManagementSystem.Models
 
         public void DisplayItemDetails()
         {
-            foreach (var item in LibraryItems)
+            foreach (var item in _libraryItems)
             {
                 Console.WriteLine(item.GetDetails());
             }
         }
+
+     
     }
 }
