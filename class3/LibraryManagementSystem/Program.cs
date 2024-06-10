@@ -43,6 +43,14 @@ namespace LibraryManagementSystem
                 YearPublished = 1972,
                 Rating = 7
             },
+               new DVD
+            {
+                Title = "Brazil",
+                Author = "Terry Gilliam",
+                DurationInMinutes = 132,
+                YearPublished = 1985,
+                Rating = 10
+            },
 
         };
 
@@ -50,13 +58,11 @@ namespace LibraryManagementSystem
 
             Console.WriteLine("Welcome to Library Menagmnet sistem.");
             Console.WriteLine("Choose an option:");
-           
             Console.WriteLine("1. Add a library item");
             Console.WriteLine("2. Remove a library item");
             Console.WriteLine("3. Borrow a library item");
             Console.WriteLine("4. Return a library item");
-            Console.WriteLine("5. Display details of a library item");
-            Console.WriteLine("6. Search item by Title: ");
+            Console.WriteLine("5. Search item by Title: ");
             Console.WriteLine("0. Exit");
             //
             Console.Write("Enter your choice: ");
@@ -72,27 +78,17 @@ namespace LibraryManagementSystem
                     RemoveLibraryItem();
                     break;
                 case 3:
-
-
+                    BorrowLibraryItem();
                     break;
                 case 4:
-
+                    ReturnLibraryItem();
                     break;
+               
                 case 5:
-
-                    break;
-                case 6:
-
-
-
+                    SerachItem();
                     break;
                 case 0:
-
-
-
-
-
-
+                   
                     break;
                 default:
                     Console.WriteLine("Input error. Enter a number(1-6).");
@@ -186,6 +182,86 @@ namespace LibraryManagementSystem
                 }
             }
             //trebam napraviti funkciju za provjeru inputa
+            void SerachItem()
+            {
+                Console.WriteLine("Serach item by title: ");
+                string titleItemInp = Console.ReadLine();
+
+                List<ILibraryItem> searchedItems = listOfItems
+                    .Where(item => item.Title == titleItemInp)
+                    .ToList();
+                if (searchedItems.Count == 0)
+                {
+                    Console.WriteLine($"There is no items with that title ");
+
+                }
+                else if (searchedItems.Count > 0)
+                    Console.WriteLine($"There is {searchedItems.Count} items with that title ");
+                    foreach (ILibraryItem item in searchedItems)
+                    {
+                        Console.WriteLine($"{item.GetDetails()}");
+                    }
+
+            }
+            void BorrowLibraryItem()
+            {
+                Console.WriteLine($"Enter title of item you want to borrow: ");
+                string itemToBorrow = Console.ReadLine();
+
+                List<ILibraryItem> availableItems = listOfItems
+                    .Where(item => item.IsBorrowed == false)
+                    .ToList();
+
+                if(availableItems.Count > 0)
+                {
+                    foreach (ILibraryItem item in availableItems)
+                    {
+                        if (item.Title == itemToBorrow)
+                        {
+                            item.BorrowItem();
+
+                        }
+                    }
+                    Console.WriteLine("You borrowed item.");
+                }
+                else
+                {
+                    Console.WriteLine($"Error...");
+                }
+               
+               
+            }
+            void ReturnLibraryItem()
+            {
+                Console.WriteLine("Enter title of the item you want to return: ");
+                string itemToReturn = Console.ReadLine();
+                List<ILibraryItem> borrowedItems = listOfItems
+                  .Where(item => item.IsBorrowed == true)
+                  .ToList();
+
+                foreach (ILibraryItem item in borrowedItems)
+                {
+                    if(item.Title == itemToReturn)
+                    {
+                        item.BorrowItem();
+                        Console.WriteLine("Item is now borrowed.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Error...");
+                    }
+                }
+
+
+
+
+
+            }
+
+
+
+
+        }
 
         }
 
@@ -195,4 +271,4 @@ namespace LibraryManagementSystem
     }
 
 
-}
+

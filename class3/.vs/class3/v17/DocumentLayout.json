@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\interfaces\\ilibraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\interfaces\\ilibraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Interfaces\\ILibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Interfaces\\ILibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\DVD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Models\\DVD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Models\\Comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Models\\Magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\LibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Models\\LibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\micad\\onedrive\\desktop\\c#-advanced\\csharp-adv\\class3\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358E0209-B27A-43ED-91C9-231A3D85F2D0}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,10 +52,9 @@
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Interfaces\\ILibraryItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T18:48:02.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T18:48:02.015Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Program.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAIAAAAAmAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T09:13:58.389Z",
               "EditorCaption": ""
@@ -80,12 +79,11 @@
               "RelativeToolTip": "LibraryManagementSystem\\Models\\DVD.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:13:36.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:13:36.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Comic.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\Comic.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Comic.cs",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:12:51.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:12:51.107Z"
             },
             {
               "$type": "Document",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "LibraryManagementSystem\\Models\\Magazine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:10:21.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:10:21.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\C#-advanced\\Csharp-adv\\class3\\LibraryManagementSystem\\Models\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\LibraryItem.cs",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Models\\LibraryItem.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:10:17.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:10:17.587Z"
             },
             {
               "$type": "Document",

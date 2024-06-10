@@ -11,6 +11,7 @@ namespace LibraryManagementSystem.Interfaces
     {
 
         string Title { get; }
+        string Author { get; }  
         bool IsBorrowed { get; }
         public void BorrowItem();
         public void ReturnItem();
