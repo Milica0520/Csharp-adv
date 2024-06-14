@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\bin\Debug\net8.0\class14.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\bin\Debug\net8.0\class14.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\bin\Debug\net8.0\class14.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\bin\Debug\net8.0\class14.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\bin\Debug\net8.0\class14.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\refint\class14.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\class14.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\class14\obj\Debug\net8.0\ref\class14.dll

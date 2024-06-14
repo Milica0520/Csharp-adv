@@ -10,11 +10,16 @@ namespace LibraryManagementSystem.Models
     public class Library 
     {
 
-      private readonly List<ILibraryItem> _libraryItems = new();
+        private readonly List<ILibraryItem> _libraryItems = new();
 
-        public Library(List<ILibraryItem> libraryItems) {
+        private readonly List<User> _users = new(); 
+
+
+
+        public Library(List<ILibraryItem> libraryItems, List<User> users) {
         
             _libraryItems = libraryItems;
+            _users = users;
         }
 
 
@@ -31,11 +36,26 @@ namespace LibraryManagementSystem.Models
         public void BorrowCurrItem(ILibraryItem inputItem)
         {
             inputItem.BorrowItem();
+
         }
 
         public void ReturnCurrItem(ILibraryItem inputItem)
         {
             inputItem.ReturnItem();
+        }
+        public ILibraryItem SearchItem(string title)
+        {
+            ILibraryItem libraryItem = null;
+            foreach (ILibraryItem item in _libraryItems)
+            {
+                if(item.Title == title )
+                {
+                    libraryItem = item;
+                }
+            }
+
+            return libraryItem;
+
         }
 
         public void DisplayItemDetails()
