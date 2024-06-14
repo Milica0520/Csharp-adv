@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\bin\Debug\net8.0\LibraryMenagmentSistem-Exam.exe
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\bin\Debug\net8.0\LibraryMenagmentSistem-Exam.deps.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\bin\Debug\net8.0\LibraryMenagmentSistem-Exam.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\bin\Debug\net8.0\LibraryMenagmentSistem-Exam.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\bin\Debug\net8.0\LibraryMenagmentSistem-Exam.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\refint\LibraryMenagmentSistem-Exam.dll
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.pdb
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\LibraryMenagmentSistem-Exam.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\C#-advanced\Csharp-adv\LibraryMenagmentSistem-Exam\LibraryMenagmentSistem-Exam\obj\Debug\net8.0\ref\LibraryMenagmentSistem-Exam.dll
