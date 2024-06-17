@@ -26,30 +26,22 @@ namespace LibraryMenagmentSistem_Exam
             _users.Add(user);
         }
 
-        public Book FindBook(string word)
+       public Book FindBook(string word)
         {
-            Book book = null;
-            if (string.IsNullOrEmpty(word) == false)
-            {
-                book = _books
-           .Where(
-                    item => item.Title == word
-                 || item.Author == word
-                 || item.ISBN == word)
-           .FirstOrDefault();
-                Console.WriteLine($"Book found.{book.Title}{book.Author}{book.ISBN}");
-            }
-            else
-            {
-                Console.WriteLine("Your word not found.");
-            }
-            return book;
+            Book searchedBook = _books
+                              .Where(item => item.Title.Contains(word)
+                              || item.Author.Contains(word)
+                              || item.ISBN.Contains(word)
+                              )
+                              .FirstOrDefault();
 
+            return searchedBook;
         }
+     
 
         public void BorrowBook(Book book, User user)
         {
-            book.IsAvailable = true;
+            book.IsAvailable = false;
             user.CheckedOutBooks.Add(book);
             Transaction borrowTransaction = new Transaction() { Book = book, User = user, Date = DateTime.Now };
             _transactions.Add(borrowTransaction);
@@ -58,17 +50,23 @@ namespace LibraryMenagmentSistem_Exam
         }
         public void ReturnBook(Book book, User user)
         {
-            book.IsAvailable = false;
+            book.IsAvailable = true;
             user.CheckedOutBooks.Add(book);
             Transaction returnTransaction = new Transaction() { Book = book, User = user, Date = DateTime.Now };
             _transactions.Add(returnTransaction);
         }
 
+        public User LogIn(string userNameInp)
+        {
+            User currUser = _users
+                  .Where(user => user.UserName.ToLower() == userNameInp.ToLower())
+                  .FirstOrDefault();
+            return currUser;
+
+        }
 
 
-
-
-        public void Start()
+        public void Start(User currUser)
         {
 
             bool exit = false;
@@ -80,9 +78,18 @@ namespace LibraryMenagmentSistem_Exam
                 Console.WriteLine("2. Borrow Book.");
                 Console.WriteLine("3. Return Book");
                 Console.WriteLine("0. Exit");
-                int userInp = int.Parse(Console.ReadLine());
 
-                switch (userInp)
+                string stringInp = Console.ReadLine();
+                int choseNum ;
+                bool isParsed = int.TryParse(stringInp, out choseNum);
+
+                if (!isParsed)
+                {
+                    Console.WriteLine("Incorrect input. Try again.");
+                }
+                else
+                {
+                switch (choseNum)
                 {
                     case 0:
                         exit = true;
@@ -92,29 +99,13 @@ namespace LibraryMenagmentSistem_Exam
                         Console.WriteLine("Enter kayword to search for a book: ");
                         string wordInp = Console.ReadLine();
 
-                        if (wordInp != null)
-                        {
-                           Book foundedBook = this.FindBook(wordInp);
-                           Console.WriteLine($"{foundedBook.GetBookInfo}");
-                        }else
-                        {
-                            Console.WriteLine($"Book with kayword  \"{wordInp}\" not found.");
-                        }
+
+                         Book searchedBook = this.FindBook(wordInp);
+                            Console.WriteLine($"Book found. Book info: ");
+                            searchedBook.GetBookInfo();
+
                         break;
                     case 2:
-                        
-                        if (string.IsNullOrEmpty(nameInp) == false)
-                        {
-                             currUser = _users
-                                .Where(user => (user.UserName).ToLower() == nameInp.ToLower())
-                                .FirstOrDefault();
-                            Console.WriteLine($"User with user name {currUser.UserName} found");
-                        }else
-                        {
-                            Console.WriteLine($"User with user name {nameInp} not found");
-                            break;
-                        }
-
                         Console.WriteLine("Available books:");  
                         List<Book> availableBook = _books
                              .Where(book => book.IsAvailable == true)
@@ -133,25 +124,37 @@ namespace LibraryMenagmentSistem_Exam
                             if(i == indexInp)
                             {
                                 this.BorrowBook(availableBook[i],currUser);
+                                Console.WriteLine($"{availableBook[i].Title} borrowed by {currUser}");
                             }
                         }
                         break;
 
                     case 3:
-                        Console.WriteLine("Enter your user name:");
-                        string nameInp1 = Console.ReadLine();
 
 
+                        int index = 0;
+                        foreach (Book item in currUser.CheckedOutBooks)
+                        {
+                            Console.WriteLine($"{index++} : {item.GetBookInfo()}");
+                        }
+                        Console.WriteLine("Enter index of a book you want to return");
+                        int indexInpR = int.Parse(Console.ReadLine());
 
-
-
+                        for (int i = 0 ; i < currUser.CheckedOutBooks.Count ; i++)
+                        {
+                            if (i == indexInpR)
+                            {
+                                this.ReturnBook(currUser.CheckedOutBooks[i], currUser);
+                                Console.WriteLine($"{currUser.CheckedOutBooks[i].Title} returned.");
+                            }
+                        }
 
                         break;
                     default:
                         Console.WriteLine("Unknown input. Please try again");
                         break;
                 }
-
+                }
 
             } while (exit == false);
 

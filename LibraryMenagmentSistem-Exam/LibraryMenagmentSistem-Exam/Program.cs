@@ -85,13 +85,22 @@ namespace LibraryMenagmentSistem_Exam
             });
 
 
-            Console.WriteLine("Welcome to Library Menagment Sistem.");
-            Console.WriteLine("Enter your user name:");
-            string nameInp = Console.ReadLine();
+            Console.WriteLine("Library Menagment Sistem.");
+            Console.WriteLine("Please enter your user name:");
 
-            User currUser = null;
-
-            library.Start();
+            string userNameInp = Console.ReadLine();
+            User currUser = library.LogIn(userNameInp);
+            
+            if(currUser == null)
+            {
+                Console.WriteLine($"Sorry.User width user name '{userNameInp}' not found");
+            }
+           else
+            {
+                Console.WriteLine($"Welcome {currUser.UserName} to Library Menagment Sistem. You are now loged in.");
+                library.Start(currUser);
+            }
+            
 
 
 
