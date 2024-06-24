@@ -28,6 +28,7 @@ namespace LibraryMenagmentSistem_Exam
 
        public Book FindBook(string word)
         {
+        
             Book searchedBook = _books
                               .Where(item => item.Title.Contains(word)
                               || item.Author.Contains(word)
@@ -64,8 +65,6 @@ namespace LibraryMenagmentSistem_Exam
             return currUser;
 
         }
-
-
         public void Start(User currUser)
         {
 
@@ -101,8 +100,8 @@ namespace LibraryMenagmentSistem_Exam
 
 
                          Book searchedBook = this.FindBook(wordInp);
-                            Console.WriteLine($"Book found. Book info: ");
-                            searchedBook.GetBookInfo();
+                            Console.WriteLine($"Book found. Book info: {searchedBook.GetBookInfo()}");
+                            
 
                         break;
                     case 2:
