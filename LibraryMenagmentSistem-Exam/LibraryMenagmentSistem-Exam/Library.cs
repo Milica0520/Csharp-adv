@@ -28,7 +28,11 @@ namespace LibraryMenagmentSistem_Exam
 
        public Book FindBook(string word)
         {
-        
+            if (_books == null || !_books.Any())
+            {
+                throw new InvalidOperationException("The book list is empty or not initialized.");
+            }
+
             Book searchedBook = _books
                               .Where(item => item.Title.Contains(word)
                               || item.Author.Contains(word)
